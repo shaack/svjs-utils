@@ -1,6 +1,6 @@
 {
   "name": "svjs-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Some utils for svjs apps",
   "main": "src/svjs-utils/Dom.js",
   "scripts": {

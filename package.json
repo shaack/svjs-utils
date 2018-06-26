@@ -2,7 +2,7 @@
   "name": "svjs-utils",
   "version": "1.0.0",
   "description": "Some utils for svjs apps",
-  "main": "src/svjs-utils/",
+  "main": "src/svjs-utils/Dom.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

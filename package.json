@@ -1,0 +1,22 @@
+{
+  "name": "svjs-utils",
+  "version": "1.0.0",
+  "description": "Some utils for svjs apps",
+  "main": "src/svjs-utils/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaack/svjs-utils.git"
+  },
+  "keywords": [
+    "es6"
+  ],
+  "author": "https://shaack.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shaack/svjs-utils/issues"
+  },
+  "homepage": "https://github.com/shaack/svjs-utils#readme"
+}
